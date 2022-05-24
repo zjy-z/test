@@ -11,3 +11,7 @@ qwe
 qw
 dddddddddddddddddddddddddde
 q
+
+
+
+a.text:
